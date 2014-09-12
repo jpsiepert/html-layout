@@ -1,0 +1,45 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+.container {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.red {
+	width: 100%;
+	height: 25%;
+	background-color: red;
+}
+
+.blue1 {
+	width: 33%;
+	height: 75%;
+	background-color: blue;
+	float:left;
+}
+
+.brown{
+	height: 75%;
+	width: 33%;
+	float: left;
+}
+.yellow {
+	height: 75%;
+	width: 100%;
+	background-color: yellow;
+}
+.green {
+	height: 25%;
+	width: 100%;
+	background-color: green;
+}
+
+.blue2 {
+	height: 75%;
+	width: 33%;
+	background-color: blue;
+	float: left;
+}
